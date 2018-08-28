@@ -68,6 +68,9 @@ Machine Learning in High Frequency Financial Data
 - Apply ***Machine Learning*** techniques like ***LSTM***, ***CNN***, and ***XGBoost*** to predict ***tick-level*** financial trend.
 - [***Home Page***](https://github.com/Gofinge/HF)
 <p align="center">
+  <img src="https://github.com/LikelihoodLab/2018_Summer_Program/blob/master/figure/hf/lstm.png"/>
+</p>
+<p align="center">
   <img src="https://github.com/LikelihoodLab/2018_Summer_Program/blob/master/figure/hf/accuracy.png"/>
 </p>
 <p align="center">
@@ -76,6 +79,4 @@ Machine Learning in High Frequency Financial Data
 <p align="center">
   <img src="https://github.com/LikelihoodLab/2018_Summer_Program/blob/master/figure/hf/importance2.png"/>
 </p>
-
-
 
