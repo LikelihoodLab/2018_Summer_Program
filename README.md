@@ -29,13 +29,19 @@ AlphaRenju Zero
   <img src="https://github.com/LikelihoodLab/2018_Summer_Program/blob/master/figure/alphazero/human(black)_vs_ai(white).gif" width="350px" height="350px"/>
 </p>
 
-Reinforcement Learning in Portfolio Management
+Deep Reinforcement Learning in Portfolio Management
 ---------
 - ***ZhiPeng Liang***; ***KangKang Jiang***; ***Hao Chen***; ***JunHao Zhu***; ***YanRan Li***;
 - Use ***Reinforcement Learning*** to train an artificial agent in the financial market to conduct ***portfolio management***.
 - [***Home Page***](https://github.com/qq303067814/Reinforcement-learning-in-portfolio-management-)
 <p align="center">
   <img src="https://github.com/LikelihoodLab/2018_Summer_Program/blob/master/figure/rl/rl.jpg"/>
+</p>
+<p align="center">
+  <img src="https://github.com/LikelihoodLab/2018_Summer_Program/blob/master/figure/rl/learning.png"/>
+</p>
+<p align="center">
+  <img src="https://github.com/LikelihoodLab/2018_Summer_Program/blob/master/figure/rl/comparison.png"/>
 </p>
 
 Sentimental Analysis of Financial Market
@@ -62,10 +68,10 @@ Stock Trend Analysis using HMM and LSTM
   <img src="https://github.com/LikelihoodLab/2018_Summer_Program/blob/master/figure/hmm/hmm.png"/>
 </p>
 
-Machine Learning in High Frequency Financial Data 
+Analysis of High Frequency Stock Data based on Machine Learning
 ---------
 - ***XiaoYang Wu***; ***Zheng Xie***; ***JiaHui Wu***; ***JinYuan Yu***;
-- Apply ***Machine Learning*** techniques like ***LSTM***, ***CNN***, and ***XGBoost*** to predict ***tick-level*** financial trend.
+- Apply ***Machine Learning*** techniques like ***LSTM***, and ***XGBoost*** to predict ***tick-level*** financial trend.
 - [***Home Page***](https://github.com/Gofinge/HF)
 <p align="center">
   <img src="https://github.com/LikelihoodLab/2018_Summer_Program/blob/master/figure/hf/lstm.png"/>
