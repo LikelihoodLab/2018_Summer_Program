@@ -1,5 +1,5 @@
 <p>
-  <img src="https://github.com/fxy96/Likelihood_Tech_2018_Summer/blob/master/figure/others/logo.png"/>
+  <img src="https://github.com/LikelihoodLab/2018_Summer_Program/blob/master/figure/others/logo.png"/>
 </p>
 
 About
@@ -25,8 +25,8 @@ AlphaRenju Zero
 - Apply ***AlphaZero*** algorithm in the game of ***Renju***.
 - [***Home Page***](https://github.com/PolyKen/AlphaRenju_Zero)
 <p class="half" align="center">
-  <img src="https://github.com/fxy96/Likelihood_Tech_2018_Summer/blob/master/figure/alphazero/human(black)_vs_ai(white).gif" width="350px" height="350px"/>
-  <img src="https://github.com/fxy96/Likelihood_Tech_2018_Summer/blob/master/figure/alphazero/ai_self_play.gif" width="350px" height="350px"/>
+  <img src="https://github.com/LikelihoodLab/2018_Summer_Program/blob/master/figure/alphazero/ai_self_play.gif" width="350px" height="350px"/>
+  <img src="https://github.com/LikelihoodLab/2018_Summer_Program/blob/master/figure/alphazero/human(black)_vs_ai(white).gif" width="350px" height="350px"/>
 </p>
 
 Reinforcement Learning in Portfolio Management
@@ -44,13 +44,13 @@ Sentimental Analysis of Financial Market
 - Apply ***NLP*** to analyze the ***sentiment*** of financial market. 
 - [***Home Page***](https://github.com/Coldog2333/Financial-NLP)
 <p align="center">
-  <img src="https://github.com/fxy96/Likelihood_Tech_2018_Summer/blob/master/figure/nlp/crash.png"/>
+  <img src="https://github.com/LikelihoodLab/2018_Summer_Program/blob/master/figure/nlp/crash.png"/>
 </p>
 <p align="center">
-  <img src="https://github.com/fxy96/Likelihood_Tech_2018_Summer/blob/master/figure/nlp/sse.png"/>
+  <img src="https://github.com/LikelihoodLab/2018_Summer_Program/blob/master/figure/nlp/sse.png"/>
 </p>
 <p align="center">
-  <img src="https://github.com/fxy96/Likelihood_Tech_2018_Summer/blob/master/figure/nlp/szse.png"/>
+  <img src="https://github.com/LikelihoodLab/2018_Summer_Program/blob/master/figure/nlp/szse.png"/>
 </p>
 
 Stock Trend Analysis using HMM and LSTM
@@ -59,7 +59,7 @@ Stock Trend Analysis using HMM and LSTM
 - Using ***Hidden Markov Model*** and ***Long Short Term Memory*** to analyze stock ***trend***.
 - [***Home Page***](https://github.com/JINGEWU/Stock-Market-Trend-Analysis-Using-HMM-LSTM)
 <p align="center">
-  <img src="https://github.com/fxy96/Likelihood_Tech_2018_Summer/blob/master/figure/hmm/hmm.png"/>
+  <img src="https://github.com/LikelihoodLab/2018_Summer_Program/blob/master/figure/hmm/hmm.png"/>
 </p>
 
 Machine Learning in High Frequency Financial Data 
@@ -68,5 +68,14 @@ Machine Learning in High Frequency Financial Data
 - Apply ***Machine Learning*** techniques like ***LSTM***, ***CNN***, and ***XGBoost*** to predict ***tick-level*** financial trend.
 - [***Home Page***](https://github.com/Gofinge/HF)
 <p align="center">
-  <img src="https://github.com/fxy96/Likelihood_Tech_2018_Summer/blob/master/figure/hf/hf.jpg"/>
+  <img src="https://github.com/LikelihoodLab/2018_Summer_Program/blob/master/figure/hf/accuracy.png"/>
 </p>
+<p align="center">
+  <img src="https://github.com/LikelihoodLab/2018_Summer_Program/blob/master/figure/hf/importance1.png"/>
+</p>
+<p align="center">
+  <img src="https://github.com/LikelihoodLab/2018_Summer_Program/blob/master/figure/hf/importance2.png"/>
+</p>
+
+
+
