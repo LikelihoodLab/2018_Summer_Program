@@ -36,14 +36,17 @@ Deep Reinforcement Learning in Portfolio Management
 - ***ZhiPeng Liang***; ***KangKang Jiang***; ***Hao Chen***; ***JunHao Zhu***; ***YanRan Li***;
 - Train a ***Deep Reinforcement Learning*** agent in the financial market to conduct ***portfolio management***.
 - [***Home Page***](https://github.com/qq303067814/Reinforcement-learning-in-portfolio-management-)
+
 - Comparison of Portfolio Values before and after Learning in American Stock Market:
 <p align="center">
   <img src="https://github.com/LikelihoodLab/2018_Summer_Program/blob/master/figure/rl/learning.png"/>
 </p>
+
 - Comparison of Portfolio Values before and after Learning in Chinese Stock Market:
 <p align="center">
   <img src="https://github.com/LikelihoodLab/2018_Summer_Program/blob/master/figure/rl/learning1.png"/>
 </p>
+
 - Back Test on USA Stock Market:
 <p align="center">
   <img src="https://github.com/LikelihoodLab/2018_Summer_Program/blob/master/figure/rl/algo_comparison.png"/>
