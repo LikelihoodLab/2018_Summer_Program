@@ -43,7 +43,7 @@ Deep Reinforcement Learning in Portfolio Management
   <img src="https://github.com/LikelihoodLab/2018_Summer_Program/blob/master/figure/rl/learning1.png"/>
 </p>
 <p align="center">
-  <img src="https://github.com/LikelihoodLab/2018_Summer_Program/blob/master/figure/rl/comparison.png"/>
+  <img src="https://github.com/LikelihoodLab/2018_Summer_Program/blob/master/figure/rl/algo_comparison.png"/>
 </p>
 
 
