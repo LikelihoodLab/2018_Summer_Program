@@ -24,9 +24,11 @@ AlphaRenju Zero
 - ***Xie Zheng***; ***XingYu Fu***; ***JinYuan Yu***;
 - Apply ***AlphaZero*** algorithm in the game of ***Renju***.
 - [***Home Page***](https://github.com/PolyKen/AlphaRenju_Zero)
-<p class="half" align="center">
-  <img src="https://github.com/LikelihoodLab/2018_Summer_Program/blob/master/figure/alphazero/ai_self_play.gif" width="350px" height="350px"/>
-  <img src="https://github.com/LikelihoodLab/2018_Summer_Program/blob/master/figure/alphazero/human(black)_vs_ai(white).gif" width="350px" height="350px"/>
+<p align="center">
+  <img src="https://github.com/LikelihoodLab/2018_Summer_Program/blob/master/figure/alphazero/ai_self_play.gif"/>
+</p>
+<p align="center">
+  <img src="https://github.com/LikelihoodLab/2018_Summer_Program/blob/master/figure/alphazero/human(black)_vs_ai(white).gif"/>
 </p>
 
 Deep Reinforcement Learning in Portfolio Management
@@ -38,11 +40,12 @@ Deep Reinforcement Learning in Portfolio Management
   <img src="https://github.com/LikelihoodLab/2018_Summer_Program/blob/master/figure/rl/learning.png"/>
 </p>
 <p align="center">
-  <img src="https://github.com/LikelihoodLab/2018_Summer_Program/blob/master/figure/rl/comparison.png"/>
-</p>
-<p align="center">
   <img src="https://github.com/LikelihoodLab/2018_Summer_Program/blob/master/figure/rl/learning2.png"/>
 </p>
+<p align="center">
+  <img src="https://github.com/LikelihoodLab/2018_Summer_Program/blob/master/figure/rl/comparison.png"/>
+</p>
+
 
 Sentimental Analysis of Financial Market
 ---------
