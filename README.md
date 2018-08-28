@@ -35,7 +35,7 @@ Reinforcement Learning in Portfolio Management
 - Use ***Reinforcement Learning*** to train an artificial agent in the financial market to conduct ***portfolio management***.
 - [***Home Page***](https://github.com/qq303067814/Reinforcement-learning-in-portfolio-management-)
 <p align="center">
-  <img src="https://github.com/fxy96/Likelihood_Tech_2018_Summer/blob/master/figure/rl/rl.jpg"/>
+  <img src="https://github.com/LikelihoodLab/2018_Summer_Program/blob/master/figure/rl/rl.jpg"/>
 </p>
 
 Sentimental Analysis of Financial Market
