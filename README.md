@@ -43,6 +43,9 @@ Deep Reinforcement Learning in Portfolio Management
 <p align="center">
   <img src="https://github.com/LikelihoodLab/2018_Summer_Program/blob/master/figure/rl/comparison.png"/>
 </p>
+<p align="center">
+  <img src="https://github.com/LikelihoodLab/2018_Summer_Program/blob/master/figure/rl/learning2.png"/>
+</p>
 
 Sentimental Analysis of Financial Market
 ---------
