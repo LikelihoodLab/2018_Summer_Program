@@ -37,10 +37,10 @@ Deep Reinforcement Learning in Portfolio Management
 - Use ***Reinforcement Learning*** to train an artificial agent in the financial market to conduct ***portfolio management***.
 - [***Home Page***](https://github.com/qq303067814/Reinforcement-learning-in-portfolio-management-)
 <p align="center">
-  <img src="https://github.com/LikelihoodLab/2018_Summer_Program/blob/master/figure/rl/learning.png"/>
+  <img src="https://github.com/LikelihoodLab/2018_Summer_Program/blob/master/figure/rl/learning2.png"/>
 </p>
 <p align="center">
-  <img src="https://github.com/LikelihoodLab/2018_Summer_Program/blob/master/figure/rl/learning2.png"/>
+  <img src="https://github.com/LikelihoodLab/2018_Summer_Program/blob/master/figure/rl/learning.png"/>
 </p>
 <p align="center">
   <img src="https://github.com/LikelihoodLab/2018_Summer_Program/blob/master/figure/rl/comparison.png"/>
