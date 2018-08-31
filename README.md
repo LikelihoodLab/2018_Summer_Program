@@ -2,6 +2,10 @@
   <img src="https://github.com/LikelihoodLab/2018_Summer_Program/blob/master/figure/others/logo.png"/>
 </p>
 
+<p>
+  <img src="https://github.com/LikelihoodLab/2018_Summer_Program/blob/master/figure/others/report.jpg"/>
+</p>
+
 About
 ====
 ***Likelihood Lab 2018 Summer Program*** is a research program exploring exciting combinations of artificial intelligence and finance. Participants conduct independent researches on selected topics on Fintech or AI in july and august 2018.
