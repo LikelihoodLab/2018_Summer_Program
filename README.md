@@ -73,7 +73,7 @@ Stock Trend Analysis using HMM and LSTM
 
 Analysis of High Frequency Stock Data based on Machine Learning
 ---------
-- ***XiaoYang Wu***; ***Zheng Xie***; ***JiaHui Wu***; ***JinYuan Yu***;
+- ***XiaoYang Wu***; ***JiaHui Wu***; ***Zheng Xie***; ***JinYuan Yu***;
 - Apply ***Machine Learning*** techniques like ***LSTM***, and ***XGBoost*** to predict ***tick-level*** financial trend.
 - [***Home Page***](https://github.com/Gofinge/HF)
 <p align="center">
