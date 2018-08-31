@@ -1,8 +1,4 @@
 <p>
-  <img src="https://github.com/LikelihoodLab/2018_Summer_Program/blob/master/figure/others/logo.png"/>
-</p>
-
-<p>
   <img src="https://github.com/LikelihoodLab/2018_Summer_Program/blob/master/figure/others/report.jpg"/>
 </p>
 
